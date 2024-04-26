@@ -11,7 +11,7 @@ output: html_document
 
 ## Вариант 4 (Lévis, London, Longueuil, Maple Ridge, Markham, Medicine Hat, Milton, Mirabel, Mississauga, Moncton)
 
-```{r cars}
+```{r}
 library(leaflet)
 
 lng = c( -71.168346,  -0.127696,-73.480052, -122.6, -79.256992, 
